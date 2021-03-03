@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Scanner;
 
-/* Class containing methods to perform Arithmetic Operations on Hexadecimal value
+/* Class containing methods to perform Arithmetic Operations on Hexadecimal value*/
 public class HexCalc {
 	private String n1,n2;
 	private int deciNum1 = 0, deciNum2 = 0; // to make generic, we can change to array
